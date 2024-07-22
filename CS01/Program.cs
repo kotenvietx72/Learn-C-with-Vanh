@@ -22,5 +22,3 @@ namespace CS01 // Gom lại các lớp giống nhau thành 1 namespace
     }
     
 }
-
-// Ảo thật đấy
